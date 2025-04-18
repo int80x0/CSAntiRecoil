@@ -1,0 +1,117 @@
+2025-04-18 15:19:59.366 [INFO] Logger initialized
+2025-04-18 15:19:59.369 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:19:59.370 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:19:59.371 [ERROR] JSON parsing error in data/patterns\m4a4.json: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+2025-04-18 15:19:59.371 [INFO] Loaded 1 patterns
+2025-04-18 15:19:59.372 [ERROR] Error loading config: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+2025-04-18 15:19:59.372 [WARNING] Failed to load config, using defaults.
+2025-04-18 15:19:59.373 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:19:59.373 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:19:59.373 [INFO] Aspect ratio set to: 1.777778 (scale: 1.000000)
+2025-04-18 15:21:29.285 [INFO] Logger initialized
+2025-04-18 15:21:29.285 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:21:29.287 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:21:29.288 [ERROR] JSON parsing error in data/patterns\m4a4.json: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+2025-04-18 15:21:29.289 [INFO] Loaded 1 patterns
+2025-04-18 15:21:29.290 [ERROR] Error loading config: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+2025-04-18 15:21:29.291 [WARNING] Failed to load config, using defaults.
+2025-04-18 15:21:29.291 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:21:29.291 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:21:29.292 [INFO] Aspect ratio set to: 1.777778 (scale: 1.000000)
+2025-04-18 15:23:20.826 [INFO] Logger initialized
+2025-04-18 15:23:20.827 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:23:20.828 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:23:20.828 [INFO] Loaded 1 patterns
+2025-04-18 15:23:20.829 [ERROR] Error loading config: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+2025-04-18 15:23:20.829 [WARNING] Failed to load config, using defaults.
+2025-04-18 15:23:20.829 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:23:20.829 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:23:20.830 [INFO] Aspect ratio set to: 1.777778 (scale: 1.000000)
+2025-04-18 15:36:14.342 [INFO] Logger initialized
+2025-04-18 15:36:14.343 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:36:14.345 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:36:14.346 [INFO] Loaded pattern: m4a4 (m4a4.json)
+2025-04-18 15:36:14.346 [INFO] Loaded 2 patterns
+2025-04-18 15:36:14.347 [INFO] Config loaded from: data/config.json
+2025-04-18 15:36:14.348 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:36:14.349 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:36:14.350 [INFO] Aspect ratio set to: 1.777800 (scale: 1.000013)
+2025-04-18 15:36:42.385 [ERROR] Pattern not found: m4a4
+2025-04-18 15:36:42.386 [ERROR] Failed to load pattern: m4a4
+2025-04-18 15:37:20.669 [INFO] Logger initialized
+2025-04-18 15:37:20.670 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:37:20.671 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:37:20.671 [INFO] Loaded pattern: m4a4 (m4a4.json)
+2025-04-18 15:37:20.672 [INFO] Loaded 2 patterns
+2025-04-18 15:37:20.672 [INFO] Config loaded from: data/config.json
+2025-04-18 15:37:20.672 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:37:20.672 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:37:20.673 [INFO] Aspect ratio set to: 1.777800 (scale: 1.000013)
+2025-04-18 15:37:52.573 [INFO] Anti-recoil started
+2025-04-18 15:37:52.574 [ERROR] Cannot apply empty pattern
+2025-04-18 15:37:56.500 [INFO] Logger initialized
+2025-04-18 15:37:56.500 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:37:56.502 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:37:56.503 [INFO] Loaded pattern: m4a4 (m4a4.json)
+2025-04-18 15:37:56.503 [INFO] Loaded 2 patterns
+2025-04-18 15:37:56.505 [INFO] Config loaded from: data/config.json
+2025-04-18 15:37:56.505 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:37:56.506 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:37:56.507 [INFO] Aspect ratio set to: 1.777800 (scale: 1.000013)
+2025-04-18 15:38:04.037 [ERROR] Pattern not found: ak47
+2025-04-18 15:38:04.038 [ERROR] Failed to load pattern: ak47
+2025-04-18 15:38:31.170 [INFO] Logger initialized
+2025-04-18 15:38:31.170 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:38:31.172 [INFO] Loaded 0 patterns
+2025-04-18 15:38:31.172 [WARNING] No patterns found. You'll need to import patterns from a Lua script.
+2025-04-18 15:38:31.172 [INFO] Config file does not exist, using default settings
+2025-04-18 15:38:31.173 [INFO] Config saved to: data/config.json
+2025-04-18 15:38:31.174 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:38:31.175 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:38:31.175 [INFO] Aspect ratio set to: 1.777778 (scale: 1.000000)
+2025-04-18 15:39:10.913 [INFO] Logger initialized
+2025-04-18 15:39:10.914 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:39:10.915 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:39:10.915 [INFO] Loaded 1 patterns
+2025-04-18 15:39:10.916 [INFO] Config loaded from: data/config.json
+2025-04-18 15:39:10.916 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:39:10.917 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:39:10.917 [INFO] Aspect ratio set to: 1.777778 (scale: 1.000000)
+2025-04-18 15:39:18.848 [ERROR] Pattern not found: ak47
+2025-04-18 15:39:18.849 [ERROR] Failed to load pattern: ak47
+2025-04-18 15:39:32.953 [ERROR] Pattern not found: ak47
+2025-04-18 15:39:32.953 [ERROR] Failed to load pattern: ak47
+2025-04-18 15:39:36.309 [ERROR] Pattern not found: ak47
+2025-04-18 15:39:36.309 [ERROR] Failed to load pattern: ak47
+2025-04-18 15:40:34.853 [INFO] Logger initialized
+2025-04-18 15:40:34.853 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:40:34.854 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:40:34.854 [INFO] Loaded 1 patterns
+2025-04-18 15:40:34.855 [INFO] Config loaded from: data/config.json
+2025-04-18 15:40:34.855 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:40:34.855 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:40:34.856 [INFO] Aspect ratio set to: 1.777778 (scale: 1.000000)
+2025-04-18 15:40:40.868 [ERROR] Pattern not found: ak47
+2025-04-18 15:40:40.869 [ERROR] Failed to load pattern: ak47
+2025-04-18 15:41:45.615 [INFO] Logger initialized
+2025-04-18 15:41:45.616 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:41:45.617 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:41:45.617 [INFO] Loaded 1 patterns
+2025-04-18 15:41:45.617 [INFO] Config loaded from: data/config.json
+2025-04-18 15:41:45.617 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:41:45.617 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:41:45.617 [INFO] Aspect ratio set to: 1.777778 (scale: 1.000000)
+2025-04-18 15:41:58.458 [ERROR] Pattern not found: ak47
+2025-04-18 15:41:58.458 [ERROR] Failed to load pattern: ak47
+2025-04-18 15:45:36.091 [INFO] Logger initialized
+2025-04-18 15:45:36.091 [INFO] CS Anti-Recoil starting up...
+2025-04-18 15:45:36.092 [INFO] Loaded pattern: ak47 (ak47.json)
+2025-04-18 15:45:36.094 [INFO] Loaded pattern: m4a4 (m4a4.json)
+2025-04-18 15:45:36.094 [INFO] Loaded 2 patterns
+2025-04-18 15:45:36.094 [INFO] Config loaded from: data/config.json
+2025-04-18 15:45:36.094 [INFO] Sensitivity set to: 2.000000 (scale: 1.000000)
+2025-04-18 15:45:36.095 [INFO] Resolution set to: 1920x1080 (scale: 1.000000x1.000000)
+2025-04-18 15:45:36.095 [INFO] Aspect ratio set to: 1.777800 (scale: 1.000013)
+2025-04-18 15:45:41.374 [INFO] AntiRecoilEngine: Loading pattern: ak47
+2025-04-18 15:45:41.374 [ERROR] Pattern not found: ak47
+2025-04-18 15:45:41.374 [ERROR] Failed to load pattern: ak47

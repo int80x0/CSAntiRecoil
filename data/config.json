@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "sensitivity": 2.0,
+    "resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "aspectRatio": 1.7778,
+    "returnToOriginal": true
+  },
+  "hotkeys": {
+    "ak47": 0,
+    "m4a4": 0
+  }
+}
